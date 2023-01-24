@@ -1,0 +1,8 @@
+git.sr.ht/~spc/go-log v0.0.0-20220407193148-15b04da8a6c5 h1:ObydND8CjIwUsNwUGSu16XUuIB2JMGfpriI02D5ppsc=
+git.sr.ht/~spc/go-log v0.0.0-20220407193148-15b04da8a6c5/go.mod h1:IKiYUc0lWbZO4uSV0kWNzJSFnABNdrybpPWo46CGgFM=
+github.com/godbus/dbus/v5 v5.1.0 h1:4KLkAxT3aOY8Li4FRJe/KvhoNFFxo0m6fNuFUO8QJUk=
+github.com/godbus/dbus/v5 v5.1.0/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/redhatinsights/yggdrasil v0.0.0-20221005152729-6593b1422480 h1:5Jq339EMcNOXBna256bYGVT2hydBLTEr0QJ55nv7OIU=
+github.com/redhatinsights/yggdrasil v0.0.0-20221005152729-6593b1422480/go.mod h1:nTd8BKdKVxUZ6QZJDpWi21L9pJ9PVDY08sk2LcBXDF0=

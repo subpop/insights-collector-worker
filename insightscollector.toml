@@ -1,0 +1,2 @@
+exec = "/usr/local/libexec/yggdrasil/insights-collector-worker"
+remote_content = true
